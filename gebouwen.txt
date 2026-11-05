@@ -1,0 +1,8 @@
+# gebouwen.txt - gegevens van alle gebouwen
+# formaat: naam,prijs,tevredenheid,inkomen,min_inwoners,max_inwoners
+# regels met # voor worden overgeslagen
+huis,500,0,0,1,4
+winkel,1000,2,100,0,0
+park,750,5,0,0,0
+fabriek,5000,-10,500,0,0
+pretpark,10000,20,1000,0,0

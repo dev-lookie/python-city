@@ -1,0 +1,14 @@
+# speler.txt - beginwaarden van de speler
+# formaat: naam = waarde
+Geld = 10000
+Inwoners = 10
+tevredenheid = 75
+maand = 1
+huizen = 4
+schulden = 0
+schuldbedrag = 0
+inkomsten = 0
+winkels = 1
+fabrieken = 0
+parken = 0
+pretparken = 0
